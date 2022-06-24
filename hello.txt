@@ -3,5 +3,3 @@ Hello, world!
 another line
 third line
 *************
-XD
-
